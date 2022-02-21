@@ -1,1 +1,1 @@
-This is a simple project in HTML to show I understand the basics of this language.
+This my first project in HTML.
